@@ -1,0 +1,13 @@
+# Simulation and synthesis output
+*.vcd
+*.wdb
+*.jou
+*.log
+*.pb
+*.str
+*.runs/
+*.cache/
+*.sim/
+*.hw/
+*.ip_user_files/
+build/
